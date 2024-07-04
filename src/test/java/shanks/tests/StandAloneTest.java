@@ -18,7 +18,7 @@ public class StandAloneTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+// Niggar is Back
 		String productName = "ZARA COAT 3";
 		
 		WebDriver driver = new ChromeDriver();
